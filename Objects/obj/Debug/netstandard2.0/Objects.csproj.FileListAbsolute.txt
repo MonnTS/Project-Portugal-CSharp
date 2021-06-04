@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\bin\Debug\netstandard2.0\Objects.deps.json
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\bin\Debug\netstandard2.0\Objects.dll
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\bin\Debug\netstandard2.0\Objects.pdb
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\obj\Debug\netstandard2.0\Objects.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\obj\Debug\netstandard2.0\Objects.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\obj\Debug\netstandard2.0\Objects.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\obj\Debug\netstandard2.0\Objects.dll
+C:\Users\alexa\source\repos\Project_Barcelos\Objects\obj\Debug\netstandard2.0\Objects.pdb

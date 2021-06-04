@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\bin\Debug\netstandard2.0\RemoveFromFile.deps.json
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\bin\Debug\netstandard2.0\RemoveFromFile.dll
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\bin\Debug\netstandard2.0\RemoveFromFile.pdb
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\obj\Debug\netstandard2.0\RemoveFromFile.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\obj\Debug\netstandard2.0\RemoveFromFile.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\obj\Debug\netstandard2.0\RemoveFromFile.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\obj\Debug\netstandard2.0\RemoveFromFile.dll
+C:\Users\alexa\source\repos\Project_Barcelos\RemoveFromFile\obj\Debug\netstandard2.0\RemoveFromFile.pdb

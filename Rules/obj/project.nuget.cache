@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8NJsNzQ5d0S9UBab9yiN9InnRmhm1/2/h2nXlV95SWIB+0UqVPBhv6Pij0tOQ5NHuzsFtganCifB1bJ91EQPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monn\\Downloads\\PortugalProjects-main\\Project Barcelos\\Rules\\Rules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Monn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6bJ9z8dRChFWW0Bis1pbAKu9ezmuFjjsaezzKeTGzfbG+8leizX7g6tlAN3971E1dMglJQiFXt9hP+NA6zmvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monn\\Downloads\\PortugalProjects-main\\Project Barcelos\\Check\\Plik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Monn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

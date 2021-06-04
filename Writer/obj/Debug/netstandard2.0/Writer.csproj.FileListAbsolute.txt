@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\bin\Debug\netstandard2.0\Writer.deps.json
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\bin\Debug\netstandard2.0\Writer.dll
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\bin\Debug\netstandard2.0\Writer.pdb
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\bin\Debug\netstandard2.0\Objects.dll
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\bin\Debug\netstandard2.0\Objects.pdb
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.csproj.CopyComplete
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.dll
+C:\Users\alexa\source\repos\Project_Barcelos\Writer\obj\Debug\netstandard2.0\Writer.pdb
