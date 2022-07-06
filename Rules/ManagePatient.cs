@@ -1,28 +1,20 @@
 ﻿//  Daniel Zujev & Aliaksandr Yurchyk
 //  Programming Language II, Barcelous 29-05-2020
-using System;
 using Data;
 using Objects;
 
 namespace Rules
 {
-    /// <summary>
-    /// Class adding the Patient to the list
-    /// </summary>
     public class ManagePatient
     {
-        #region BOOL
         /// <summary>
-        /// Boolean
-        /// Method is static
+        /// Using method from class Data to add new patient to the list of patients.
         /// </summary>
-        /// <return></return>
-        /// <param name="p"></param>
-        public static bool InsertPatient(Patient p)
+        /// <param name="patient">Object Patient</param>
+        /// <returns>True if added a patient with success otherwise false</returns>
+        public static bool InsertPatient(Patient patient)
         {
-            return Patients.AddPatient(p);
+            return Patients.AddPatient(patient);
         }
-
-        #endregion
     }
 }

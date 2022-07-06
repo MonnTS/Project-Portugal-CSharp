@@ -1,40 +1,33 @@
 ﻿//  Daniel Zujev & Aliaksandr Yurchyk
 //  Programming Language II, Barcelous 29-05-2020
-using System;
 using System.IO;
 using Objects;
 
 namespace Writer
 {
-    /// <summary>
-    /// Class writing status to the list
-    /// </summary>
+
     public class WriteInStatus
     {
-        #region BOOL
         /// <summary>
-        /// Method is static
-        /// Writing all data to the file
+        ///   Write in status file
         /// </summary>
-        /// <return></return>
-        /// <param name="p">First Name</param>
-        /// <param name="os"></param>
-        /// <param name="comboBox">Date Of Birth</param>
-        /// <param name="status">Status</param>
-        /// <param name="obj">Local Variable</param>
-        public static bool Write(string p, Patient os, string comboBox, string status)
+        /// <param name="path">File path</param>
+        /// <param name="patient">Object Patient</param>
+        /// <param name="comboBox">Status from combobox</param>
+        /// <param name="status">Patient status</param>
+        /// <returns>True if status matched otherwise false</returns>
+        public static bool Write(string path, Patient patient, string comboBox, string status)
         {
             if (comboBox == status)
             {
-                using (StreamWriter obj = new StreamWriter(p, true)) // without true, false is applied and the file is overwritten every time, and so appends new lines
+                using (StreamWriter obj = new StreamWriter(path, true))
                 {
-                    obj.Write(os.FName + " " + os.SName + " " + os.Data + " " + os.Status);
+                    obj.Write($"{patient.FirstName} {patient.SecondName} {patient.Data} {patient.PatientStatus}");
                     obj.WriteLine();
                 }
+                return true;
             }
-            return true;
+            return false;
         }
-
-        #endregion
     }
 }

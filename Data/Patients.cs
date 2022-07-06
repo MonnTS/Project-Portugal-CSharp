@@ -1,45 +1,28 @@
 ﻿//  Daniel Zujev & Aliaksandr Yurchyk
 //  Programming Language II, Barcelous 29-05-2020
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Objects;
 
 namespace Data
 {
-    /// <summary>
-    /// Class checking if the Patient is added
-    /// </summary>
     public class Patients
     {
-        #region LIST
-        /// <summary>
-        /// Creating the List, in which we adding the Patient
-        /// </summary>
-        /// <param name="listPatients"></param>
-        static List<Patient> listPatients = new List<Patient>();
-        #endregion
+        private static List<Patient> _listPatients = new List<Patient>();
 
-        #region BOOL
         /// <summary>
-        /// Method is static
-        /// Checking if the object "p" is written 
+        /// Checks whether the patient is in the list of patients.
         /// </summary>
-        /// <return></return>
-        /// <param name="p"></param>
-        public static bool AddPatient(Patient p)
+        /// <param name="patient">Object Patient</param>
+        /// <returns>True if a patient is not on the list otherwise false</returns>
+        public static bool AddPatient(Patient patient)
         {
-
-            if (listPatients.Contains(p) == true)
+            if (_listPatients.Contains(patient))
             {
                 return false;
             }
-            listPatients.Add(p);
-            return true;
 
+            _listPatients.Add(patient);
+            return true;
         }
-        #endregion
     }
 }
